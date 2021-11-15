@@ -1,10 +1,17 @@
 library(tidyverse)
+library(brooms)
 library(sf)
 library(rmapshaper)
 library(tmap)
 library(ggpubr)
 library(cowplot)
-library(d3heatmap)
+library(heatmaply)
+library(micromap)
+library(gridExtra)
+library(gridGraphics)
+library(grid)
+library(ComplexHeatmap)
+
 
 dshp<-st_read("C:/Users/ZEF/Desktop/Related_ms2/Data/District Shapefile/Districts/Map_of_Districts_216.shp")
 dshp <-ms_simplify(dshp)
@@ -216,7 +223,9 @@ dat_chlo %>%
   facet_wrap(~RGN_NM2012)+
   theme_bw()+
   xlab("Median malaira incidence")+
-  labs(size = "Built area\n")+
+  labs(size = "Built area\n")
+
++
   geom_cor(method = "Pearson", ypos = 1e5) 
 
   guides(color = guide_legend(override.aes = list(size = 3)))
@@ -243,7 +252,7 @@ dat_chlo %>%
 
 dat_chlo %>% 
   group_by(RGN_NM2012) %>% 
-  do(tidy(cor.test(x = .$Med_Inc,y = .$Precip)))
+  do(tidy(cor.test(.$Med_Inc, .$Precip)))
 
 dat_chlo %>% 
   group_by(RGN_NM2012) %>% 
@@ -262,7 +271,7 @@ dat_chlo %>%
   do(tidy(cor.test(x = .$Med_Inc,y = .$Healthcare)))
 
 dat_chlo %>% 
-  ggplot(aes(x = Med_Inc, y = density)) + 
+  ggplot(aes(x =Med_Inc , y = density)) + 
   geom_point(aes(color= BuiltInten)) +
   #geom_smooth()+
   facet_wrap(~RGN_NM2012)+
@@ -359,21 +368,49 @@ complete %>%
             legend.bg.color = "white")
 
 d1<-dat_chlo %>% 
-  tm_shape() + tm_polygons(col='Med_Inc', title = "Incidence"
-                           , palette = "magma") + tm_scale_bar(position = c("left", "bottom")) 
+  mutate(Med_IncR = normalize(Med_Inc)) %>% 
+  tm_shape() + tm_polygons(col='Med_IncR', title = "Normalized Incidence", 
+                            breaks =c(0,0.1,.2,.3,.4,.5,.6,
+                                       .7,.8,.9,1), legend.show = FALSE
+                           ) +   tm_scale_bar(,position = c("left", "bottom"))+tm_layout("Incidence") 
 d2<-dat_chlo %>% 
-  tm_shape() + tm_polygons(col='density', title = "Density"
-                           , palette = "magma") + tm_scale_bar(position = c("left", "bottom")) 
+  mutate(densityR = normalize(density)) %>% 
+  tm_shape() + tm_polygons(col='densityR', title = "Normalized value", 
+                           breaks =c(0,0.1,.2,.3,.4,.5,.6,                                                                       .7,.8,.9,1)) +   tm_scale_bar(position = c("left", "bottom")) +tm_layout("Density")
 d3<-dat_chlo %>% 
-  tm_shape() + tm_polygons(col='NDVI', title = "NDVI"
-                           , palette = "magma") + tm_scale_bar(position = c("left", "bottom")) 
+  mutate(NDVIR = normalize(NDVI)) %>% 
+  tm_shape() + tm_polygons(col='NDVIR', title = "Normalized NDVI",
+                           breaks =c(0,0.1,.2,.3,.4,.5,.6,                                                                       .7,.8,.9,1), legend.show = FALSE )+ tm_scale_bar(position = c("left", "bottom"))+ 
+  tm_layout("NDVI") 
 
 d4<-dat_chlo %>% 
-  tm_shape() + tm_polygons(col='ITN', title = "ITN"
-                           , palette = "magma") + tm_scale_bar(position = c("left", "bottom")) 
+  mutate(ITNR = normalize(ITN)) %>% 
+  tm_shape() + tm_polygons(col='ITNR', title = "Normalized ITN",
+                        breaks =c(0,0.1,.2,.3,.4,.5,.6,.7,.8,.9,1), 
+                        legend.show = FALSE) + tm_scale_bar(position = c("left", "bottom"))+
+  tm_layout("ITN")
+d5<-dat_chlo %>% 
+  mutate(BuiltArR = normalize(BuiltAr)) %>% 
+  tm_shape() + tm_polygons(col='BuiltArR', title = "Normalized Built Areas",
+                           breaks =c(0,0.1,.2,.3,.4,.5,.6,.7,.8,.9,1), legend.show=FALSE
+                           ) + tm_scale_bar(position = c("left", "bottom"))+tm_layout("Built Areas")
 
-tmap_arrange(d1,d2,d3,d4)
+d6<-dat_chlo %>% 
+  mutate(BuiltIntenR = normalize(BuiltInten)) %>% 
+  tm_shape() + tm_polygons(col='BuiltIntenR', title = "Normalized Built Intensity",
+                           breaks =c(0,0.1,.2,.3,.4,.5,.6,.7,.8,.9,1), legend.show=FALSE
+                           ) + tm_scale_bar(position = c("left", "bottom"))+tm_layout("Built Intensity")
 
+tmap_arrange(d1,d2)
+tmap_arrange(d3, d4)
+tmap_arrange(d5,d6)
+             ,t1,t2)
+tmap_arrange(d5,d6,t1,t2)
+tmap_arrange(d5,d6)
+
+grid.arrange (t1,t2)
+arrangeGrob(t1,t2)
+,d6,t1,t2)
 
 d5<-dat_chlo%>% 
   mutate(clustnew = as.factor(clustnew))%>% 
@@ -383,9 +420,26 @@ tmap_arrange(d1,d5)
 
 dataset<-dat_chlo %>% 
   as_tibble() %>% 
-  select(NAME, density, BuiltAr, BuiltInten, vaccinations, ITN, 
-         Healthcare, Toilet, Water, Precip, NDVI, Med_Inc) 
-  m<-as.matrix(dataset[,-1]) 
-  rownames(m) <- dataset$NAME
-  heatmap(m)
-#heatmap(as.matrix(dataset[,-1]), scale = "row")  
+  select(NAME, density, BuiltAr, BuiltInten, ITN, 
+          NDVI, Med_Inc) 
+
+trans_matr<-t(as.matrix(dataset[,-1]))
+norm_trans_matr<-normalize(trans_matr)
+colnames(norm_trans_matr) = dataset$NAME
+  m<-cor(norm_trans_matr) 
+  t2<-heatmap(m)
+  
+matr<-as.matrix(dataset[,-1])
+  norm_matr<-normalize(matr)
+  rownames(norm_matr) = dataset$NAME
+  t1<-heatmap(as.matrix(norm_matr))
+  #heatmaply(
+   # norm_matr, #dendrogram = "none",
+    #xlab = "Covariates", 
+    #ylab = "Districts"
+     # )
+  datasetR<-dataset %>% 
+    mutate(across(where(is.double), normalize))
+    
+  heatmap(as.matrix(norm_matr))+heatmap(m)
+  

@@ -1,0 +1,217 @@
+ID,NAME,LABEL,THEME_NAME,DTT_ID2010,DTT_NM2010,DTT_LB2010,RGN_NM2012,AREA_M2,gdppersqkm,vaccinations,ITN,Edu_men,Edu_wm,Healthcare,Toilet,Water,NAME2
+101,Jomoro,Jomoro,JOMORO,306,Jomoro,Jomoro,Western,1493755450,1494,8,13,12,16,26,16,38,Jomoro
+102,Ellembelle,Ellembelle,ELLEMBELLE,312,Ellembelle,Ellembelle,Western,995043496.2,995,6,9,8,12,17,9,27,Ellembelle
+103,Nzema East,Nzema East,NZEMA EAST MUNICIPAL,303,Nzema East,Nzema East,Western,1083336517,1083,6,8,8,11,19,7,27,Nzema East
+104,Ahanta West,Ahanta West,AHANTA WEST,307,Ahanta West,Ahanta West,Western,554072265.7,554,3,4,4,6,10,8,8,Ahanta West
+105,Sekondi Takoradi,Sekondi Takoradi,SEKONDI TAKORADI METROPOLIS,301,Shama Ahanta East,STMA,Western,191662659.9,192,1,2,1,1,2,1,1,Sekondi-Takoradi
+106,Shama,Shama,SHAMA,310,Shama,Shama,Western,193697018.9,194,1,2,1,2,3,2,1,Shama
+107,Wassa East,Wassa East,WASSA EAST,319,Mpohor Wassa East,Mpohor Wassa East,Western,1652172965,1652,8,11,11,17,29,15,34,Wassa East
+108,Tarkwa Nsuaem,Tarkwa Nsuaem,TARKWA NSUAEM MUNICIPAL,302,Tarkwa Nsuaem,Tarkwa Nsuaem,Western,904940420.2,905,5,6,5,8,13,6,11,Tarkwa-Nsuaem
+109,Prestea / Huni Valley,Prestea / Huni Valley,PRESTEA/HUNI VALLEY,309,Prestea Huni,Prestea Huni,Western,1808660373,1809,9,15,9,17,28,7,31,Prestea-Huni Valley
+110,Wassa Amenfi East,Wassa Amenfi East,WASSA AMENFI EAST,308,Wassa Amenfi,Wassa Amenfi East,Western,1557438175,1557,8,15,10,16,26,9,36,Wassa Amenfi East
+111,Wassa Amenfi West,Wassa Amenfi West,WASSA AMENFI WEST,314,Wassa West,Wassa Amenfi West,Western,1447287361,1447,8,14,10,16,26,5,43,Wassa Amenfi West
+112,Aowin,Aowin,AOWIN,318,Aowin Suaman,Aowin Suaman,Western,2607090244,2607,15,21,22,28,47,11,81,Aowin
+113,Sefwi Akontombra,Sefwi Akontombra,SEFWI AKONTOMBRA,311,Sefwi Akontombra,Sefwi Akontombra,Western,1118720081,1119,6,8,8,12,20,4,29,Sefwi-Akontombra
+114,Sefwi-Wiawso,Sefwi-Wiawso,SEFWI WIAWSO,304,Sefwi Wiawso,Sefwi Wiawso,Western,1010605044,1011,5,7,6,11,16,5,22,Sefwi-Wiawso
+115,Sefwi Bibiani-Anhwiaso Bekwai,Sefwi Bibiani-Anhwiaso Bekwai,SEFWI BIBIANI-AHWIASO BEKWAI,305,Bibiani Anhwiaso,Bibiani Anhwiaso,Western,833201679.4,833,4,7,5,9,13,7,15,Bibiani-Anhwiaso-Bekwai
+116,Juabeso,Juabeso,JUABESO,321,Juabeso Bia,Juabeso,Western,1367975907,1368,8,10,10,16,23,9,38,Juaboso
+117,Bia West,Bia West,BIA WEST,315,Bia,Bia,Western,1285166341,1285,7,12,11,16,22,10,33,Bia West
+118,Mpohor,Mpohor,MPOHOR,319,Mpohor Wassa East,Mpohor Wassa East,Western,524468017.2,524,3,3,4,6,8,5,7,Mpohor
+119,Wassa Amenfi Central,Wassa Amenfi Central,WASSA AMENFI CENTRAL,314,Wassa West,Wassa Amenfi West,Western,1844729283,1845,10,19,12,20,35,6,53,Wassa-Amenfi Central
+120,Suaman,Suaman,SUAMAN,318,Aowin Suaman,Aowin Suaman,Western,399521295.2,400,3,4,4,5,9,2,13,Suaman
+121,Bodi,Bodi,BODI,321,Juabeso Bia,Juabeso,Western,661544027.3,662,4,5,6,9,13,2,20,Bodi
+122,Bia East,Bia East,BIA EAST,315,Bia,Bia,Western,782375907.3,782,4,5,6,9,12,3,19,Bia East
+201,Komenda Edna Eguafo / Abirem,Komenda Edna Eguafo / Abirem,KOMENDA-EDINA-EGYAFO-ABIREM MUNICIPAL,202,Komenda Edina Eguafo,Komenda Edina Eguafo,Central,452641918.1,453,2,3,4,5,6,6,4,Komenda-Edna-Eguafo-Abirem
+202,Cape Coast Metro,Cape Coast Metro,CAPE COAST METROPOLIS,201,Cape Coast,Cape Coast,Central,122448765.3,122,1,1,1,1,1,1,1,Cape Coast
+203,Abura / Asebu / Kwamankese,Abura / Asebu / Kwamankese,ABURA-ASEBU-KWAMANKESE,210,Abura Asebu Kwaman,Abura Asebu Kwaman,Central,376937143.7,377,2,3,3,4,5,2,3,Abura-Asebu-Kwamankese
+204,Mfantsiman,Mfantsiman,MFANTSIMAN MUNICIPAL,208,Mfantsiman,Mfantsiman,Central,300896112.9,301,1,2,2,3,4,3,2,Mfantsiman
+205,Ajumako-Enyan-Esiam,Ajumako-Enyan-Esiam,AJUMAKO-ENYAN-ESSIAM,211,Ajumako Enyan Esiam,Ajumako Enyan Esiam,Central,521648462.5,522,2,3,3,5,6,3,6,Ajumako-Enyan-Essiam
+206,Gomoa West,Gomoa West,GOMOA WEST,215,Gomoa West,Gomoa West,Central,459020926.1,459,2,3,3,5,6,5,3,Gomoa West
+207,Effutu,Effutu,EFFUTU MUNICIPAL,204,Efutu,Efutu,Central,85311657.4,85,1,1,1,1,1,1,1,Efutu
+208,Gomoa East,Gomoa East,GOMOA EAST,214,Gomoa East,Gomoa East,Central,540444410.5,540,2,3,3,5,6,6,2,Gomoa East
+209,Awutu Senya,Awutu Senya,EWUTU SENYA,207,Awutu Senya,Awutu Senya,Central,244834959.8,245,1,2,2,2,3,3,3,Awutu Senya
+210,Agona East,Agona East,AGONA EAST,206,Agona West,Agona West,Central,327742591.8,328,1,2,2,3,4,2,4,Agona East
+211,Agona West,Agona West,AGONA WEST MUNICIPAL,216,Agona East,Agona East,Central,356576354.4,357,2,3,2,4,5,2,6,Agona West
+212,Asikuma / Odoben / Brakwa,Asikuma / Odoben / Brakwa,ASIKUMA-ODOBEN BRAKWA,209,Asikuma Odoben Brakwa,Asikuma Odoben Brakwa,Central,773152892.2,773,3,5,4,7,9,3,12,Asikuma-Odoben-Brakwa
+213,Assin South,Assin South,ASSIN SOUTH,212,Assin South,Assin South,Central,1101526992,1102,5,7,7,12,16,6,24,Assin South
+214,Assin North,Assin North,ASSIN NORTH MUNICIPAL,203,Assin North,Assin North,Central,1005086903,1005,4,8,5,11,16,3,15,Assin North
+215,Twifo Ati-Morkwa,Twifo Ati-Morkwa,TWIFO-ATI MORKWA,217,Lower Denkyira,Lower Denkyira,Central,955573433.6,956,5,8,6,11,18,5,20,Twifo-Ati-Mokwa
+216,Upper Denkyira East,Upper Denkyira East,UPPER DENKYIRA EAST MUNICIPAL,205,Upper Denkyira East,Upper Denkyira East,Central,501941008.3,502,3,5,3,6,9,3,8,Upper Denkyira East
+217,Upper Denkyira West,Upper Denkyira West,UPPER DENKYIRA WEST,213,Upper Denkyira West,Upper Denkyira West,Central,579020693.2,579,3,5,4,6,9,5,9,Upper Denkyira West
+218,Twifo Lower Denkyira,Twifo Lower Denkyira,TWIFO-HEMAN-LOWER DENKYIRA,217,Lower Denkyira,Lower Denkyira,Central,575718403.1,576,3,4,4,7,9,4,10,Twifo-Hemang Lower Denkyira
+219,Ekumfi,Ekumfi,EKUMFI,208,Mfantsiman,Mfantsiman,Central,276934945.2,277,1,2,2,3,5,4,2,Ekumfi
+301,Ga South,Ga South,WEIJA (GA SOUTH) MUNICIPAL,110,Ga South,Ga South,Greater Accra,342400959.1,342,2,2,2,2,2,2,2,Ga South
+302,Ga West,Ga West,GA WEST MUNICIPAL,103,Ga West,Ga West,Greater Accra,300094166,300,2,2,1,2,3,2,2,Ga West
+303,Ga East,Ga East,GA EAST MUNICIPAL,104,Ga East,Ga East,Greater Accra,85819563.31,86,1,1,1,1,1,1,1,Ga East
+304,Accra Metropolis,Accra Metropolis,ACCRA METROPOLIS,102,AMA,AMA,Greater Accra,139934811.4,140,1,1,1,1,1,1,1,Accra Metro
+305,Adenta,Adenta,ADENTA MUNICIPAL,106,Adentan,Adentan,Greater Accra,78095443.02,78,1,1,1,1,1,1,1,Adentan
+306,Ledzokuku / Krowor,Ledzokuku / Krowor,LEDZOKUKU/KROWOR MUNICIPAL,105,Ledzokuku Krowor,Ledzokuku Krowor,Greater Accra,47670201.8,48,1,1,1,1,1,1,1,Ledzokuku-Krowor
+307,Ashaiman,Ashaiman,ASHAIMAN MUNICIPAL,107,Ashaiman,Ashaiman,Greater Accra,18584274.64,19,1,1,1,1,1,1,1,Ashaiman
+308,Tema Metropolis,Tema Metropolis,TEMA METROPOLIS,101,Tema,Tema,Greater Accra,87989718.17,88,1,1,1,1,1,1,1,Tema
+309,Shai Osu Doku,Shai Osu Doku,SHAI OSUKOKU,116,Dangme West,Dangme West,Greater Accra,970571457.7,971,4,5,6,10,13,16,20,Shai-Osudoku
+310,Ada East,Ada East,ADA EAST,112,Dangme East,Dangme East,Greater Accra,290596380.6,291,2,2,3,4,5,7,6,Ada East
+311,Ga Central Municipal,Ga Central Municipal,GA CENTRAL MUNICIPAL,103,Ga West,Ga West,Greater Accra,49083082.5,49,1,1,1,1,1,1,1,Ga Central
+312,La Dade Kotopon,La Dade Kotopon,LA DADE KOTOPON MUNICIPAL,102,AMA,AMA,Greater Accra,36102589.04,36,1,1,1,1,1,1,1,La-Dade-Kotopon
+313,La Nkwantanang Madina,La Nkwantanang Madina,LA NKWANTANG MADINA MUNICIPAL,104,Ga East,Ga East,Greater Accra,71023483.95,71,1,1,1,1,1,1,1,La-Nkwantanang-Madina
+314,Kpone Katamanso,Kpone Katamanso,KPONE KATAMANSO,101,Tema,Tema,Greater Accra,240351931.1,240,1,2,1,2,2,2,2,Kpone-Katamanso
+315,Ningo Prampram,Ningo Prampram,NA,116,Dangme West,Dangme West,Greater Accra,623648974,624,3,5,4,6,7,11,8,Ningo Prampram
+316,Ada West,Ada West,ADA WEST,112,Dangme East,Dangme East,Greater Accra,324575036.8,325,2,2,2,3,4,6,6,Ada West
+401,South Tongu,South Tongu,SOUTH TONGU,606,Tongu South,Tongu South,Volta,645458417.9,645,4,4,4,8,10,11,13,South Tongu
+402,Keta Municipal,Keta Municipal,KETA MUNICAPAL,601,Keta,Keta,Volta,755488142.9,755,4,5,7,8,12,15,16,Keta
+403,Ketu South,Ketu South,KETU SOUTH,613,Ketu South,Ketu South,Volta,279272691.5,279,2,3,2,3,3,3,3,Ketu South
+404,Ketu North,Ketu North,KETU NORTH,609,Ketu North,Ketu North,Volta,425156237,425,3,3,4,5,6,6,6,Ketu North
+405,Akatsi South,Akatsi South,AKATSI,621,Akatsi,Akatsi,Volta,537634608.8,538,3,3,4,6,7,6,5,Akatsi South
+406,Central Tongu,Central Tongu,CENTRAL TONGU,620,Tongu North,Tongu North,Volta,684149014.7,684,3,4,5,8,11,8,10,Central Tongu
+407,Agotime Ziope,Agotime Ziope,AGOTIME ZIOPE,624,Adaklu Anyigbe,Adaklu Anyigbe,Volta,316587473.3,317,2,3,3,4,5,4,3,Agortime-Ziope
+409,South Dayi,South Dayi,SOUTH DAYI,607,Dayi South,Dayi South,Volta,359107273.1,359,2,2,1,2,4,3,5,South Dayi
+410,Kpando Municipal,Kpando Municipal,KPANDAI MUNICIPAL,603,Dayi North,Dayi North,Volta,314850741.2,315,2,2,1,2,3,3,2,Kpando
+411,Hohoe Municipal,Hohoe Municipal,HOHOE MUNICIPAL,602,Hohoe,Hohoe,Volta,686027991.1,686,3,5,3,6,9,3,11,Hohoe
+412,Biakoye,Biakoye,BIAKOYE,611,Biakoye,Biakoye,Volta,1108666245,1109,4,5,4,7,12,8,14,Biakoye
+413,Jasikan,Jasikan,JASIKAN,614,Jasikan,Jasikan,Volta,557320755.9,557,2,5,3,6,9,3,12,Jasikan
+415,Krachi East,Krachi East,KRACHI EAST,608,Krachi East,Krachi East,Volta,2765968670,2766,11,15,15,18,34,29,36,Krachi East
+416,Krachi West,Krachi West,KRACHI WEST,617,Krachi West,Krachi West,Volta,930279353.8,930,4,8,8,9,17,17,20,Krachi West
+417,Nkwanta South,Nkwanta South,NKWANTA SOUTH,612,Nkwanta South,Nkwanta South,Volta,2740257364,2740,12,26,22,28,49,37,49,Nkwanta South
+418,Nkwanta North,Nkwanta North,NKWANTA NORTH,610,Nkwanta North,Nkwanta North,Volta,1101566407,1102,7,10,9,8,13,13,35,Nkwanta North
+419,North Tongu,North Tongu,NORTH TONGU,620,Tongu North,Tongu North,Volta,1134473722,1134,5,7,7,13,17,17,19,North Tongu
+420,Akatsi North,Akatsi North,AKATSI NORTH,612,Nkwanta South,Nkwanta South,Volta,315139446.2,315,2,2,3,4,5,4,5,Akatsi North
+421,Adaklu,Adaklu,ADAKLU,624,Adaklu Anyigbe,Adaklu Anyigbe,Volta,803051559.1,803,3,5,5,7,11,7,5,Adaklu
+422,Ho West,Ho West,HO WEST,604,Ho,Ho,Volta,1005360206,1005,4,6,5,8,13,6,10,Ho West
+423,Afadzato South,Afadzato South,AFADZATO SOUTH,602,Hohoe,Hohoe,Volta,554472012.7,554,2,3,2,4,6,4,7,Afadjato South
+424,North Dayi,North Dayi,NORTH DAYI,603,Dayi North,Dayi North,Volta,463881819.8,464,2,2,1,2,3,3,5,North Dayi
+425,Krachi Nchumuru,Krachi Nchumuru,KRACHI NCHUMURU,617,Krachi West,Krachi West,Volta,1197285174,1197,6,9,11,11,18,22,13,Krachi Nchumuru
+501,Birim South,Birim South,BIRIM SOUTH,417,Birim South,Birim South,Eastern,726622860.2,727,3,5,4,7,10,3,9,Birim South
+502,Birim Municipal,Birim Municipal,BIRIM MUNICIPAL,402,Birim Central,Birim Central,Eastern,525742871.7,526,2,3,2,5,7,2,7,Birim Central
+503,West Akim,West Akim,WEST AKIM MUNICIPAL,409,Akim West,Akim West,Eastern,475635514.8,476,2,3,2,4,7,2,9,West Akim
+504,Suhum Municipal,Suhum Municipal,SUHUM MUNICIPAL,408,Suhum Kraboa Coaltar,Suhum Kraboa Coaltar,Eastern,359574547.5,360,2,2,2,3,4,1,6,Suhum
+505,Nsawam Adoagyiri,Nsawam Adoagyiri,NSAWAM ADOAGYIRI MUNICIPAL,420,Akwapim South,Akwapim South,Eastern,175270150.8,175,1,2,1,2,3,1,2,Nsawam-Adoagyiri
+506,Akwapem North,Akwapem North,AKWAPEM NORTH,405,Akwapim North,Akwapim North,Eastern,614340363.2,614,2,4,3,5,7,2,8,Akwapim North
+507,New Juaben Municipal,New Juaben Municipal,NEW JUABEN MUNICIPAL,401,New Juaben,New Juaben,Eastern,159982397.2,160,1,1,1,1,1,1,1,New Juaben
+508,Yilo Krobo,Yilo Krobo,YILO KROBO,410,Yilo Krobo,Yilo Krobo,Eastern,484354059,484,2,3,2,4,5,3,7,Yilo-Krobo
+509,Lower Manya,Lower Manya,LOWER MANYA-KROBO,406,Lower Manya Krobo,Lower Manya Krobo,Eastern,304998793.2,305,1,2,1,2,3,2,3,Lower-Manya Krobo
+510,Asuogyaman,Asuogyaman,ASUOGYAMAN,412,Asuogyaman,Asuogyaman,Eastern,767586617.5,768,3,5,3,6,8,8,10,Asuogyaman
+511,Upper Manya,Upper Manya,UPPER MANYA-KROBO,416,Upper Manya Krobo,Upper Manya Krobo,Eastern,860792140.4,861,3,5,3,6,12,8,14,Upper Manya-Krobo
+512,Fanteakwa,Fanteakwa,FANTEAKWA,411,Fanteakwa,Fanteakwa,Eastern,1100600338,1101,3,7,4,8,14,5,21,Fanteakwa
+513,East Akim,East Akim,EAST AKIM MUNICIPAL,404,Akim East,Akim East,Eastern,509107487.8,509,2,3,2,3,5,1,7,East Akim
+514,Kwaebibirem,Kwaebibirem,KWAEBIBIREM,422,Kwaebibirem,Kwaebibirem,Eastern,804352017.1,804,2,5,4,7,13,3,14,Kwaebibirem
+515,Akyem Mansa,Akyem Mansa,AKYEMANSA,418,Akyemansa,Akyemansa,Eastern,612280259.9,612,2,5,3,6,9,3,9,Akyemansa
+516,Birim North,Birim North,BIRIM NORTH,419,Birim North,Birim North,Eastern,566998376.6,567,2,4,3,5,8,3,8,Birim North
+517,Atiwa,Atiwa,ATIWA,414,Atiwa,Atiwa,Eastern,1166836621,1167,4,7,5,9,18,4,22,Atiwa
+518,Kwahu West,Kwahu West,KWAHU WEST MUNICIPAL,403,Kwahu West,Kwahu West,Eastern,401371708.5,401,2,3,2,4,6,2,7,Kwahu West
+519,Kwahu South,Kwahu South,KWAHU SOUTH,413,Kwahu South,Kwahu South,Eastern,796894394.4,797,2,5,3,6,11,9,16,Kwahu South
+520,Kwahu East,Kwahu East,KWAHU EAST,415,Kwahu East,Kwahu East,Eastern,624016127.9,624,2,5,3,6,9,8,12,Kwahu East
+521,Kwahu Afram Plains North,Kwahu Afram Plains North,KWAHU AFRAM PLAINS NORTH,423,Kwahu North,Kwahu North,Eastern,2346311789,2346,9,10,7,14,22,25,31,Kwahu North
+522,Upper West Akim,Upper West Akim,UPPER WEST AKIM,409,Akim West,Akim West,Eastern,342793960.2,343,2,3,2,3,5,2,8,Upper West Akim
+523,Akwapem South,Akwapem South,AKWAPEM SOUTH,420,Akwapim South,Akwapim South,Eastern,224539878,225,1,1,1,2,2,1,2,Akwapim South
+524,Ayensuano,Ayensuano,AYENSUANO,408,Suhum Kraboa Coaltar,Suhum Kraboa Coaltar,Eastern,499771116.8,500,2,3,2,4,6,2,9,Ayensuano
+525,Denkyembour,Denkyembour,DENKYEMBOUR,422,Kwaebibirem,Kwaebibirem,Eastern,436728895.4,437,2,3,2,4,7,2,7,Denkyembour
+526,Kwahu Afram Plains South,Kwahu Afram Plains South,KWAHU AFRAM PLAINS SOUTH,423,Kwahu North,Kwahu North,Eastern,3100130372,3100,10,23,16,31,50,61,64,Afram Plains South
+601,Atwima Mponua,Atwima Mponua,ATWIMA MPONUA,518,Atwima Mponua,Atwima Mponua,Ashanti,1882299756,1882,7,12,11,19,25,23,39,Atwima Mponua
+602,Amansie West,Amansie West,AMANSIE WEST,512,Amansie West,Amansie West,Ashanti,1230683968,1231,5,8,7,12,16,14,20,Amansie West
+603,Amansie Central,Amansie Central,AMANSIE CENTRAL,517,Amansie Central,Amansie Central,Ashanti,849546248.2,850,4,6,5,9,12,10,17,Amansie Central
+604,Adansi South,Adansi South,ADANSI SOUTH,515,Adansi South,Adansi South,Ashanti,1328606202,1329,5,10,6,12,21,8,21,Adansi South
+605,NA,Obuasi Municipal,OBUASI MUNICIPAL,502,Obuasi,Obuasi,Ashanti,220695241.8,221,1,2,1,2,2,1,1,NA
+606,Adansi North,Adansi North,ADANSI NORTH,516,Adansi North,Adansi North,Ashanti,853914797.6,854,3,7,4,9,14,6,14,Adansi North
+607,Bekwai Municipal,Bekwai Municipal,BEKWAI MUNICIPAL,504,Bekwai,Bekwai,Ashanti,535349827.6,535,2,3,2,4,6,3,7,Bekwai
+608,Bosome Freho,Bosome Freho,BOSOME FREHO,520,Bosome Freho,Bosome Freho,Ashanti,569063268.2,569,2,4,3,5,11,4,12,Bosome Freho
+609,Asante Akim South,Asante Akim South,ASANTE AKIM SOUTH,513,Asante Akim South,Asante Akim South,Ashanti,1154146997,1154,4,8,6,11,19,5,21,Asante Akim South
+610,Asante Akim Central Municipal,Asante Akim Central Municipal,ASANTE AKIM CENTRAL MUNICIPAL,528,Asante Akim North,Asante Akim North,Ashanti,300426025.5,300,1,2,2,3,4,2,6,Asante Akim Central
+611,Ejisu Juaben,Ejisu Juaben,EJISU JUABEN MUNICIPAL,503,Ejisu Juaben,Ejisu Juaben,Ashanti,582699036,583,2,3,3,4,6,2,7,Ejisu-Juaben
+612,Bosomtwe /Atwima / Kwanwoma,Bosomtwe /Atwima / Kwanwoma,BOSUMTWI,527,Bosomtwe,Bosomtwe,Ashanti,422606561.5,423,2,2,2,3,5,2,6,Bosomtwe
+613,Atwima Kwanwoma,Atwima Kwanwoma,ATWIMA KWANWOMA,521,Atwima Kwamwoma,Atwima Kwamwoma,Ashanti,251521789.6,252,1,2,1,2,3,2,3,Atwima-Kwanwoma
+614,Kma,Kma,KUMASI METROPOLIS,501,Kumasi,Kumasi,Ashanti,214312257.8,214,1,2,1,1,1,1,1,Kumasi Metro
+615,Atwima Nwabiagya,Atwima Nwabiagya,ATWIMA NWABIAGYA,514,Atwima Nwabiagye,Atwima Nwabiagye,Ashanti,579158902.2,579,2,4,3,5,7,3,6,Atwima Nwabiagya
+616,Ahafo Ano South,Ahafo Ano South,AHAFO ANO SOUTH,510,Ahafo Ano South,Ahafo Ano South,Ashanti,1190404403,1190,4,8,7,12,17,7,25,Ahafo-Ano South
+617,Ahafo Ano North,Ahafo Ano North,AHAFO ANO NORTH,511,Ahafo Ano North,Ahafo Ano North,Ashanti,593322378.1,593,2,4,4,6,8,4,15,Ahafo-Ano North
+618,Offinso Municipal,Offinso Municipal,OFFINSO MUNICIPAL,506,Offinso,Offinso,Ashanti,585671791,586,2,4,3,5,7,3,9,Offinso
+619,Afigya Kwabre,Afigya Kwabre,AFIGYA KWABRE,525,Afigya Kwabre,Afigya Kwabre,Ashanti,409422376.9,409,2,3,2,4,4,2,6,Afigya-Kwabre
+620,Kwabre,Kwabre,KWABRE EAST,524,Kwabre East,Kwabre East,Ashanti,122990188.5,123,1,1,1,1,1,1,1,Kwabre East
+621,Afigya Sekyere,Afigya Sekyere,AFIGYA SEKYERE,523,Afigya Sekyere,Afigya Sekyere,Ashanti,416901955.8,417,1,3,2,4,4,2,8,Sekyere South
+622,Mampong Municipal,Mampong Municipal,MAMPONG MUNICIPAL,505,Mampong,Mampong,Ashanti,670447999.4,670,2,5,4,7,10,7,11,Asante-Mampong
+623,Sekyere East,Sekyere East,SEKYERE EAST,526,Sekyere East,Sekyere East,Ashanti,239245042.8,239,1,2,2,2,3,2,5,Sekyere East
+624,Sekyere Afram Plains,Sekyere Afram Plains,SEKYERE AFRAM PLAINS,529,Sekyere Afram Plains,Sekyere Afram Plains,Ashanti,576942996.7,577,2,5,3,6,9,8,14,Sekyere Afram Plains
+625,Sekyere Central,Sekyere Central,SEKYERE CENTRAL,519,Sekyere Central,Sekyere Central,Ashanti,1632232263,1632,4,13,10,17,27,23,27,Sekyere Central
+626,Ejura Sekye Dumase,Ejura Sekye Dumase,EJURA SEKYE DUMASI,509,Ejura Sekyedumase,Ejura Sekyedumase,Ashanti,1340670001,1341,4,11,9,15,22,21,19,Ejura-Sekyedumase
+627,Offinso North,Offinso North,OFFINSO NORTH,522,Offinso North,Offinso North,Ashanti,945746714.5,946,2,6,6,9,10,9,13,Offinso North
+628,Asokore Mampong Municipal,Asokore Mampong Municipal,ASOKORE MAMPONG MUNICIPAL,501,Kumasi,Kumasi,Ashanti,23919951.39,24,1,1,1,1,1,1,1,Asokore-Mampong
+629,Asante Akim North,Asante Akim North,ASANTE AKIM NORTH,528,Asante Akim North,Asante Akim North,Ashanti,1126721323,1127,3,9,6,12,19,19,27,Asante Akim North
+630,Sekyere Afram Plains North,Sekyere Afram Plains North,SEKYERE AFRAM PLAINS NORTH,529,Sekyere Afram Plains,Sekyere Afram Plains,Ashanti,3529350951,3529,10,34,22,43,78,75,77,Sekyere Kumawu
+701,Asunafo South,Asunafo South,ASUNAFO SOUTH,712,Asunafo South,Asunafo South,Brong Ahafo,922743411.7,923,5,6,7,11,13,8,28,Asunafo South
+702,Asunafo North,Asunafo North,ASUNAFO NORTH MUNICIPAL,702,Asunafo North,Asunafo North,Brong Ahafo,1410365078,1410,7,8,9,16,16,9,33,Asunafo North
+703,Asutifi North,Asutifi North,ASUTIFI NORTH,720,Asutifi,Asutifi,Brong Ahafo,935437953.7,935,5,6,5,9,10,4,18,Asutifi North
+704,Dormaa Municipal,Dormaa Municipal,DORMAA CENTRAL MUNICIPAL,706,Dormaa,Dormaa,Brong Ahafo,1208642805,1209,5,6,7,12,10,3,14,Dormaa Municipal
+705,Dormaa East,Dormaa East,DORMAA MUNICIPAL,718,Dormaa East,Dormaa East,Brong Ahafo,569453662.9,569,2,3,3,5,4,1,4,Dormaa East
+706,Tano South,Tano South,TANO SOUTH,710,Tano South,Tano South,Brong Ahafo,488875840,489,2,4,3,5,6,3,7,Tano South
+707,Tano North,Tano North,TANO NORTH,709,Tano North,Tano North,Brong Ahafo,836981203.1,837,3,5,4,8,8,4,11,Tano North
+708,Sunyani Municipal,Sunyani Municipal,SUNYANI MUNICIPAL,705,Sunyani,Sunyani,Brong Ahafo,506334040.7,506,2,3,2,4,4,2,7,Sunyani Municipal
+709,Sunyani West,Sunyani West,SUNYANI WEST,719,Sunyani West,Sunyani West,Brong Ahafo,1058555593,1059,4,6,5,9,9,3,8,Sunyani West
+710,Berekum,Berekum,BEREKUM MUNICIPAL,703,Berekum,Berekum,Brong Ahafo,862341418.7,862,3,5,5,8,6,2,5,Berekum
+711,Jaman South,Jaman South,JAMAN SOUTH,713,Jaman South,Jaman South,Brong Ahafo,754401618.2,754,3,5,5,8,6,2,5,Jaman South
+712,Jaman North,Jaman North,JAMAN NORTH,715,Jaman North,Jaman North,Brong Ahafo,1030126393,1030,2,7,6,11,9,7,3,Jaman North
+713,Tain,Tain,TAIN,722,Tain,Tain,Brong Ahafo,1828456892,1828,5,13,11,20,20,17,13,Tain
+714,Wenchi,Wenchi,WENCHI MUNICIPAL,704,Wenchi,Wenchi,Brong Ahafo,1144543956,1145,4,8,7,12,17,15,16,Wenchi
+715,Techiman Municipal,Techiman Municipal,TECHIMAN MUNICIPAL,708,Techiman,Techiman,Brong Ahafo,648900191.6,649,2,4,4,6,7,5,7,Techiman Municipal
+716,Nkoranza South,Nkoranza South,NKORANZA SOUTH,707,Nkoranza South,Nkoranza South,Brong Ahafo,922742981.6,923,3,7,7,9,13,13,13,Nkoranza South
+717,Nkoranza North,Nkoranza North,NKORANZA NORTH,717,Nkoranza North,Nkoranza North,Brong Ahafo,1386859309,1387,4,11,10,15,20,17,18,Nkoranza North
+718,Atebubu Amantin,Atebubu Amantin,ATEBUBU AMANTIN,711,Atebubu,Atebubu,Brong Ahafo,2626467677,2626,8,20,20,29,49,54,38,Atebubu-Amanten
+719,Sene West,Sene West,SENE WEST,721,Sene,Sene,Brong Ahafo,3266666490,3267,14,26,29,30,66,71,84,Sene West
+720,Pru,Pru,PRU,714,Pru,Pru,Brong Ahafo,3223344004,3223,15,25,30,30,60,59,96,Pru
+721,Kintampo South,Kintampo South,KINTAMPO SOUTH,716,Kintampo South,Kintampo South,Brong Ahafo,1513253818,1513,5,13,12,18,27,23,22,Kintampo South
+722,Kintampo North,Kintampo North,KINTAMPO NORTH MUNICIPAL,701,Kintampo North,Kintampo North,Brong Ahafo,4888872688,4889,24,45,39,42,95,67,147,Kintampo North
+723,Asutifi South,Asutifi South,ASUTIFI SOUTH,720,Asutifi,Asutifi,Brong Ahafo,596779285.9,597,3,4,4,7,7,4,15,Asutifi South
+724,Dormaa West,Dormaa West,DORMAA WEST,706,Dormaa,Dormaa,Brong Ahafo,380443537.9,380,2,3,3,6,5,1,7,Dormaa West
+725,Techiman North,Techiman North,TECHIMAN NORTH,708,Techiman,Techiman,Brong Ahafo,389305015.8,389,1,3,3,4,5,4,7,Techiman North
+726,Banda,Banda,BANDA,722,Tain,Tain,Brong Ahafo,2296585630,2297,10,23,20,30,48,51,48,Banda
+727,Sene East,Sene East,SENE EAST,721,Sene,Sene,Brong Ahafo,4400691052,4401,19,37,32,42,80,82,117,Sene East
+801,Bole,Bole,BOLE,811,Bole,Bole,Northern,6165410715,6165,31,56,61,76,143,132,165,Bole
+802,Sawla/Tuna/Kalba,Sawla/Tuna/Kalba,SAWLA-TUNA-KALBA,808,Sawla Tuna Kalba,Sawla Tuna Kalba,Northern,4223843942,4224,21,39,45,45,81,73,98,Sawla-Tuna-Kalba
+803,West Gonja,West Gonja,WEST GONJA,825,Gonja West,Gonja West,Northern,4715460617,4715,24,43,43,43,103,56,139,West Gonja
+804,Gonja Central,Gonja Central,GONJA CENTRAL,805,Gonja Central,Gonja Central,Northern,7559295676,7559,38,68,62,54,148,84,239,Central Gonja
+805,East Gonja,East Gonja,EAST GONJA,816,Gonja East,Gonja East,Northern,8350985095,8351,40,71,78,62,157,122,258,East Gonja
+806,Kpandai,Kpandai,KPANDAI,813,Kpandai,Kpandai,Northern,1135210117,1135,6,10,12,11,19,20,17,Kpandai
+807,Nanumba South,Nanumba South,NANUMBA SOUTH,807,Nanumba South,Nanumba South,Northern,1793023655,1793,9,16,17,15,27,22,28,Nanumba South
+808,Nanumba North,Nanumba North,NANUMBA NORTH,806,Nanumba North,Nanumba North,Northern,2265245609,2265,13,21,21,18,37,23,48,Nanumba North
+809,Zabzugu,Zabzugu,ZABZUGU,817,Zabzugu Tatale,Zabzugu Tatale,Northern,1102850613,1103,6,11,10,7,17,9,5,Zabzugu
+810,Yendi Municipal,Yendi Municipal,YENDI MUNICIPAL,802,Yendi,Yendi,Northern,1449458511,1449,9,13,12,8,24,13,11,Yendi
+811,Tamale North Sub Metro,Tamale North Sub Metro,TAMALE METROPOLIS,801,Tamale,Tamale,Northern,647672542.7,648,3,6,6,5,11,7,8,Tamale
+812,Tolon,Tolon,TOLON,826,Tolon Kumbungu,Tolon Kumbungu,Northern,1354553389,1355,6,14,13,9,24,11,31,Tolon
+813,Savelugu Nanton,Savelugu Nanton,SAVELUGU NANTON,803,Savelugu Nanton,Savelugu Nanton,Northern,2024894741,2025,9,19,18,14,38,14,38,Savelugu-Nanton
+814,Karaga,Karaga,KARAGA,812,Karaga,Karaga,Northern,3123969931,3124,18,29,23,18,49,12,76,Karaga
+815,Gushiegu,Gushiegu,GUSHIEGU,810,Gushegu,Gushegu,Northern,2679059053,2679,15,25,21,16,45,12,52,Gushiegu
+816,Saboba,Saboba,SABOBA,815,Saboba,Saboba,Northern,1755183178,1755,10,18,15,9,30,7,28,Saboba
+817,Chereponi,Chereponi,CHEREPONI,814,Chereponi,Chereponi,Northern,1377961980,1378,7,16,12,9,27,3,46,Chereponi
+818,Bunkpurugu Yonyo,Bunkpurugu Yonyo,BUNKPURUGU YONYO,804,Bunkpurugu Yunyoo,Bunkpurugu Yunyoo,Northern,1259670900,1260,6,12,12,11,25,7,35,Bunkpurugu-Yunyoo
+819,Mamprusi East,Mamprusi East,EAST MAMPRUSI,809,Mamprusi East,Mamprusi East,Northern,1709519918,1710,9,16,15,14,31,10,44,East Mamprusi
+820,West Mamprusi,West Mamprusi,WEST MAMPRUSI,818,Mamprusi West,Mamprusi West,Northern,2613240684,2613,14,25,20,19,49,16,60,West Mamprusi
+821,North Gonja,North Gonja,NORTH GONJA,825,Gonja West,Gonja West,Northern,4846667821,4847,22,51,44,39,119,52,148,North Gonja
+822,Kumbumgu,Kumbumgu,KUMBUMGU,826,Tolon Kumbungu,Tolon Kumbungu,Northern,1542314965,1542,7,15,13,11,29,12,32,Kumbungu
+823,Sagnerigu,Sagnerigu,SAGNERIGU MUNICIPAL,801,Tamale,Tamale,Northern,200628386.3,201,1,2,2,2,3,2,1,Sagnarigu
+825,Tatale,Tatale,TATALE,817,Zabzugu Tatale,Zabzugu Tatale,Northern,1093300530,1093,7,13,11,8,21,10,6,Tatale-Sangule
+826,Mamprugu Moagduri,Mamprugu Moagduri,MAMPRUGU MOAGDURI,818,Mamprusi West,Mamprusi West,Northern,2122327295,2122,11,20,16,19,51,15,52,Mamprugu-Moagduri
+901,Builsa North,Builsa North,BUILSA NORTH,1008,Builsa,Builsa,Upper East,816914197.2,817,5,6,6,9,12,6,11,Builsa North
+904,Bolgatanga Municipal,Bolgatanga Municipal,BOLGATANGA MUNICIPAL,1001,Bolgatanga,Bolgatanga,Upper East,397479987.6,397,3,3,3,4,4,3,3,Bolgatanga
+905,Talensi,Talensi,TALENSI,1009,Talensi Nabdam,Talensi Nabdam,Upper East,839390570.1,839,5,5,6,6,11,4,9,Talensi
+906,Bongo,Bongo,BONGO,1005,Bongo,Bongo,Upper East,415219980.5,415,2,3,3,4,4,2,4,Bongo
+907,Bawku West,Bawku West,BAWKU WEST,1004,Bawku West,Bawku West,Upper East,1072767143,1073,5,7,8,9,13,6,12,Bawku West
+908,Garu Tempane,Garu Tempane,GARU TEMPANE,1006,Garu Tempane,Garu Tempane,Upper East,1062875642,1063,5,8,10,9,13,7,20,Garu-Tempane
+909,Bawku Municipal,Bawku Municipal,BAWKU MUNICIPAL,1002,Bawku,Bawku,Upper East,247678178.2,248,1,2,3,2,2,3,4,Bawku
+910,Builsa South,Builsa South,BUILSA SOUTH,1008,Builsa,Builsa,Upper East,1241987920,1242,7,10,9,14,27,9,28,Builsa South
+911,Nabdam,Nabdam,NABDAM,1009,Talensi Nabdam,Talensi Nabdam,Upper East,245258335.8,245,2,2,2,2,3,1,2,Nabdam
+912,Binduri,Binduri,BINDURI,1002,Bawku,Bawku,Upper East,392567406,393,2,3,4,4,4,3,7,Binduri
+913,Pusiga,Pusiga,PUSIGA,1002,Bawku,Bawku,Upper East,256239322.7,256,2,3,3,3,2,3,6,Pusiga
+1001,Wa West,Wa West,WA WEST,903,Wa West,Wa West,Upper West,1490404932,1490,7,12,15,13,25,30,15,Wa West
+1002,Wa Municipal,Wa Municipal,WA MUNICIPAL,901,Wa,Wa,Upper West,579358252.4,579,3,4,4,6,6,10,3,Wa
+1003,Wa East,Wa East,WA EAST,902,Wa East,Wa East,Upper West,4295587486,4296,20,40,38,39,94,50,66,Wa East
+1004,Sissala East,Sissala East,SISSALA EAST,904,Sissala East,Sissala East,Upper West,5092492185,5092,27,43,40,50,99,51,70,Sissala East
+1005,Nadowli-Kaleo,Nadowli-Kaleo,NADOWLI-KALEO,909,Nadowli,Nadowli,Upper West,1130820499,1131,6,8,10,9,15,20,5,Nadowli-Kaleo
+1006,Jirapa,Jirapa,JIRAPA,907,Jirapa,Jirapa,Upper West,1187375701,1187,6,7,10,10,15,16,5,Jirapa
+1007,Sissala  West,Sissala  West,SISSALA WEST,905,Sissala West,Sissala West,Upper West,2049071501,2049,10,15,17,20,31,29,10,Sissala West
+1008,Lambussie Karni,Lambussie Karni,LAMBUSSIE KARNI,906,Lambussie,Lambussie,Upper West,811029671.6,811,4,5,7,8,14,14,5,Lambussie-Karni
+1009,Lawra,Lawra,LAWRA,911,Lawra Nandom,Lawra Nandom,Upper West,526693508.7,527,3,4,6,5,8,9,3,Lawra
+1010,Daffiama Bussie,Daffiama Bussie,DAFFIAMA BUSSIE,909,Nadowli,Nadowli,Upper West,1455143799,1455,7,10,12,12,24,18,10,Daffiama-Bussie-Issa
+1011,Nandom,Nandom,NANDOM,911,Lawra Nandom,Lawra Nandom,Upper West,404108785.6,404,2,3,4,4,7,7,3,Nandom
+903,Kasena Nankana East,Kasena Nankana East,KASENA NANKANA EAST,1003,Kasena Nankani East,Kasena Nankani East,Upper East,767672556.7,768,5,6,6,8,12,5,10,Kasena-Nankana
+902,Kasena Nankana West,Kasena Nankana West,KASENA NANKANA WEST,1007,Kasena Nankani West,Kasena Nankani West,Upper East,873311894.6,873,5,7,6,9,12,7,6,Kasena-Nankana West
+414,Kadjebi,Kadjebi,KADJEBI,605,Kadjebi,Kadjebi,Volta,691797360.6,692,3,6,5,9,14,5,13,Kadjebi
+408,Ho Municipal,Ho Municipal,HO MUNICIPAL,604,Ho,Ho,Volta,575356861.5,575,2,4,3,4,7,4,4,Ho
+824,Mion,Mion,MION,802,Yendi,Yendi,Northern,2718940610,2719,15,24,22,16,52,24,48,Mion
+220,Awutu Senya East Municipal,Awutu Senya East Municipal,AWUTU SENYA EAST MUNICIPAL,299,Awutu Senya 2,Awutu Senya 2,Central,108171208.9,108,1,1,1,1,1,1,1,Awutu Senya East
